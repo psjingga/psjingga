@@ -28,7 +28,7 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
         </a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="30" height="30"/> 
+          <img src="https://i.pinimg.com/474x/cc/2a/d1/cc2ad105c2818e224bfb3bafb480e659.jpg" alt="mysql" width="30" height="30"/> 
         </a> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.php.net" target="_blank" rel="noreferrer">
