@@ -65,9 +65,9 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
     <img src="https://cdn-icons-png.flaticon.com/512/4096/4096186.png" width="30" />
   </a>
   <a href="https://www.instagram.com/psjingga_/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="30" />
   </a>
   <a href="mailto:panjisastra89@gmail.com" target="_blank">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="30" />
   </a>
 </div>
