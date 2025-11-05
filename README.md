@@ -14,67 +14,44 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
 ---
 
 ## 🛠️ Language and Tools
-  <table>
-    <tr>
-      <td>
+  
         <a href="https://flutter.dev" target="_blank" rel="noreferrer">
           <img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" alt="javascript" width="30" height="30" styles="margin-right:10px;"/> 
         </a>
-      </td>
-      <td width="20"></td> <!-- jarak 20px -->
-      <td>
+      &nbsp;&nbsp;&nbsp;
         <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="margin-right:10px"/> 
         </a>
-      </td>
-      <td width="20"></td> <!-- jarak 20px -->
-      <td>
+      &nbsp;&nbsp;&nbsp;
         <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> 
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-LhSen1K-3xSIN8e4c4FgarQ-fheIgbzI8RZn4VfxVJ_q6ChRmQihya9xKhRsI0fNAk&usqp=CAU" alt="laravel" width="30" height="30" style="margin-right:10px"/>
         </a>
-      </td>
-      <td width="20"></td> <!-- jarak 20px -->
-      <td>
+      &nbsp;&nbsp;&nbsp;
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" style="margin-right:10px"/> 
         </a> 
-      </td>
-      <td width="20"></td> <!-- jarak 20px -->
-      <td>
+      &nbsp;&nbsp;&nbsp;
         <a href="https://www.php.net" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30" style="margin-right:10px"/>
         </a> 
-      </td>
-      <td width="20"></td> <!-- jarak 20px -->
-      <td>
+      &nbsp;&nbsp;&nbsp;
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30" style="margin-right:10px"/>
         </a> 
-      </td>
-      <td width="20"></td> <!-- jarak 20px -->
-      <td>
+      &nbsp;&nbsp;&nbsp;
         <a href="https://postman.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" style="margin-right:10px"/>
         </a>
-      </td>
-      <td width="20"></td> <!-- jarak 20px -->
-      <td>
+      &nbsp;&nbsp;&nbsp;
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30" style="margin-right:10px"/>
         </a>  
-      </td>
-      <td width="20"></td> <!-- jarak 20px -->
-      <td>
+      &nbsp;&nbsp;&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" style="margin-right:10px"/>
-      </td>
-      <td width="20"></td> <!-- jarak 20px -->
-      <td>
+      &nbsp;&nbsp;&nbsp;
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
         </a> 
-      </td>
-    </tr>
-  </table>
 
 
 ---
