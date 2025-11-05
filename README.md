@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panjis&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psjingga&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
 
 ---
