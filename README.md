@@ -11,7 +11,7 @@ a man who loves coding :relaxed:
 - :zap:  In my free time, I spend time playing a video game :laughing:.
 - 🌱 Learning **Flutter**, **Dart**, and **Web Development**  
 - 💻 Interested in **Mobile & Web apps**  
-- 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-psjingga-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panji-sastra-jingga-5b0695160/)
+- 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Panji%20Sastra%20Jingga-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panji-sastra-jingga-5b0695160/)
 - ⚡ Fun fact: Coffee lover ☕ & Gamer 🎮  
 
 ---
