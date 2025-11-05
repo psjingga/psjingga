@@ -28,7 +28,7 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
         </a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" style="margin-right:10px"/> 
+          <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="30" height="30" style="margin-right:10px"/> 
         </a> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -44,7 +44,7 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
         </a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30" style="margin-right:10px"/>
+          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="bootstrap" width="30" height="30" style="margin-right:10px"/>
         </a>  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" style="margin-right:10px"/>
