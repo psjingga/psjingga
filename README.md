@@ -10,30 +10,42 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
 - :telescope: Learning **Flutter**, **Dart**, and **Web Development**.
 - :zap: Currently learning **Advanced Flutter & Firebase**.
 - 💻 Interested in **Mobile ,Web apps, and Design**  
-- 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Panji%20Sastra%20Jingga-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panji-sastra-jingga-5b0695160/)
+- 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Panji%20Sastra%20Jingga-blue?style=flat&logo=Linkedin&logoColor=white)]()
 
 ---
 
 ## 🛠️ Language and Tools
 
 <p align="left"> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" alt="javascript" width="40" height="40"/> 
-</a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" alt="javascript" width="30" height="30"/> 
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+  </a>
+  <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
+  </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
+  </a>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+  </a> 
+  
  </p>
 
 ---
@@ -49,10 +61,10 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
 ## 💌 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/panjis" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/panji-sastra-jingga-5b0695160/" target="_blank">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin-logo_4096186&psig=AOvVaw1MZwVgV7gPU6_V6bICJg2w&ust=1762411416503000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDllqi02pADFQAAAAAdAAAAABAL"/>
   </a>
-  <a href="https://twitter.com/panjis" target="_blank">
+  <a href="https://www.instagram.com/psjingga_/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="mailto:panjis@example.com" target="_blank">
