@@ -14,7 +14,7 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
 ---
 
 ## 🛠️ Language and Tools
-  <div>
+  <div align="center">
         <a href="https://flutter.dev" target="_blank" rel="noreferrer">
           <img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" alt="flutter" width="40" height="40"/> 
         </a>
