@@ -18,7 +18,7 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
 
 <p align="left"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" alt="javascript" width="30" height="30" style="margin-right:10px"/> 
+    <img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" alt="javascript" width="30" height="30" style="margin-right:100px"/> 
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="margin-right:10px"/> 
