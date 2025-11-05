@@ -50,6 +50,15 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
   
  </div>
 
+ <table>
+<tr>
+<td><img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" width="30" height="30"/></td>
+<td width="20"></td> <!-- jarak 20px -->
+<td><img src="https://www.javascript.com/images/logo.png" width="30" height="30"/></td>
+</tr>
+</table>
+
+
 ---
 
 ## 📊 GitHub Stats
