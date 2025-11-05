@@ -16,41 +16,45 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
 ## 🛠️ Language and Tools
   <div>
         <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-          <img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" alt="flutter" width="50" height="50"/> 
+          <img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" alt="flutter" width="40" height="40"/> 
         </a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
         </a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-LhSen1K-3xSIN8e4c4FgarQ-fheIgbzI8RZn4VfxVJ_q6ChRmQihya9xKhRsI0fNAk&usqp=CAU" alt="laravel" width="50" height="50"/>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-LhSen1K-3xSIN8e4c4FgarQ-fheIgbzI8RZn4VfxVJ_q6ChRmQihya9xKhRsI0fNAk&usqp=CAU" alt="laravel" width="40" height="40"/>
         </a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://i.pinimg.com/474x/cc/2a/d1/cc2ad105c2818e224bfb3bafb480e659.jpg" alt="mysql" width="50" height="50"/> 
+          <img src="https://i.pinimg.com/474x/cc/2a/d1/cc2ad105c2818e224bfb3bafb480e659.jpg" alt="mysql" width="40" height="40"/> 
         </a> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.php.net" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
         </a> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
         </a> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://postman.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
         </a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="bootstrap" width="50" height="50"/>
+          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="bootstrap" width="40" height="40"/>
         </a>  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        </a> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.adobe.com" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" alt="photshop" width="40" height="40"/>
         </a> 
 </div>
 
