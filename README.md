@@ -10,13 +10,20 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
 - :telescope: Learning **Flutter**, **Dart**, and **Web Development**.
 - :zap: Currently learning **Advanced Flutter & Firebase**.
 - 💻 Interested in **Mobile ,Web apps, and Design**  
-- 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Panji%20Sastra%20Jingga-blue?style=flat&logo=Linkedin&logoColor=white)]()
 
 ---
 
 ## 🛠️ Language and Tools
 
-<div align="left"> 
+<style>
+  .logos {
+    display: flex;
+    gap: 10px; /* jarak antar gambar */
+    align-items: center; /* agar vertikal sejajar */
+  }
+</style>
+
+<div class="logos"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" alt="javascript" width="30" height="30" style="margin-right:10px;"/> 
   </a>
