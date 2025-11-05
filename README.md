@@ -62,7 +62,7 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
 
 <div align="center">
   <a href="https://www.linkedin.com/in/panji-sastra-jingga-5b0695160/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin-logo_4096186&psig=AOvVaw1MZwVgV7gPU6_V6bICJg2w&ust=1762411416503000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDllqi02pADFQAAAAAdAAAAABAL"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/4096/4096186.png"/>
   </a>
   <a href="https://www.instagram.com/psjingga_/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
