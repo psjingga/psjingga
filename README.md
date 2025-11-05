@@ -5,9 +5,13 @@
 </div>
 
 ## 👨‍💻 About Me
+a man who loves coding :relaxed:
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :zap:  In my free time, I spend time playing a video game :laughing:.
 - 🌱 Learning **Flutter**, **Dart**, and **Web Development**  
 - 💻 Interested in **Mobile & Web apps**  
-- 📫 Reach me at: [panjis@example.com](mailto:panjis@example.com)  
+- 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-psjingga-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panji-sastra-jingga-5b0695160/)
 - ⚡ Fun fact: Coffee lover ☕ & Gamer 🎮  
 
 ---
