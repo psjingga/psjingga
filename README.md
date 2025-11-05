@@ -1,7 +1,7 @@
 # Hi, I'm Panji 👋
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejc2djI5MnQxMzkybGNiem14enM1Y2ZvZWhpM2kyanFnOTdzenplMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bzzb92NKwUOj0FjQOd/giphy.gif" width="200" alt="wave gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejc2djI5MnQxMzkybGNiem14enM1Y2ZvZWhpM2kyanFnOTdzenplMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bzzb92NKwUOj0FjQOd/giphy.gif" width="400" alt="wave gif"/>
 </div>
 
 
