@@ -24,7 +24,7 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
   </a>
   <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-LhSen1K-3xSIN8e4c4FgarQ-fheIgbzI8RZn4VfxVJ_q6ChRmQihya9xKhRsI0fNAk&usqp=CAU" alt="laravel" width="30" height="30"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
@@ -51,8 +51,8 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psjingga&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psjingga&layout=compact&theme=radical" alt="Top Languages" width="30%"/>
 </div>
 
 ---
