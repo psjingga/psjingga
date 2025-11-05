@@ -26,23 +26,9 @@
 
 ---
 
-## 🌟 Projects
-- [My Portfolio](https://panjis.github.io)  
-- [Flutter Todo App](https://github.com/panjis/flutter-todo)  
-- [My API Project](https://github.com/panjis/api-project)  
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panjis&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panjis&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
 
 ---
-
-## 🎨 Fun GIFs
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="250" alt="coding gif"/>
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="250" alt="coffee gif"/>
-</div>
