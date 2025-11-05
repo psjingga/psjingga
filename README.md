@@ -15,18 +15,13 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
 
 ## 🛠️ Language and Tools
 
-<style>
-  .logos {
-    display: flex;
-    gap: 10px; /* jarak antar gambar */
-    align-items: center; /* agar vertikal sejajar */
-  }
-</style>
-
 <div class="logos"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" alt="javascript" width="30" height="30" styles="margin-right:10px;"/> 
   </a>
+  <p></p>
+  <p></p>
+  <p></p>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="margin-right:10px"/> 
   </a>
