@@ -55,7 +55,11 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.adobe.com" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" alt="photshop" width="40" height="40"/>
-        </a> 
+        </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.adobe.com" target="_blank" rel="noreferrer">
+          <img src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&h=540&q=75&fit=max&auto=format" alt="figma" width="40" height="40"/>
+        </a>
 </div>
 
 ---
