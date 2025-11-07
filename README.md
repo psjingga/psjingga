@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnB1dnpqNDJibTVkZG1ta3ljM3oxbTVlOGdlOTVmOWFmb3NseXJ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gkR94v1ok56OAkg8o1/giphy.gif" width="400" alt="wave gif"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*2e1-k--AglqDCVKZ9371ug.jpeg" width="400" alt="wave gif"/>
 </div>
 
 ## 👨‍💻 About Me
