@@ -64,13 +64,6 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
 
 ---
 
-## 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psjingga&layout=compact&theme=radical" alt="Top Languages" width="30%"/>
-</div>
-
----
-
 
 ## 💌 Connect with Me
 
