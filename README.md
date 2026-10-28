@@ -73,7 +73,7 @@ I enjoy building **clean and efficient apps** with a focus on UI/UX and performa
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/psjingga_/" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png](https://commons.wikimedia.org/wiki/File:Instagram_logo_2022.svg)" width="30" />
+    <img src="https://commons.wikimedia.org/wiki/File:Instagram_logo_2022.svg" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:panjisastra89@gmail.com" target="_blank">
